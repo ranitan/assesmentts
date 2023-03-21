@@ -1,0 +1,82 @@
+[
+    {
+        "color": "red",
+        "value": "#f44336"
+    },
+    {
+        "color": "purple",
+        "value": "#e91e63"
+    },
+    {
+        "color": "pink",
+        "value": "#e91e63"
+    },
+    {
+        "color": "deeppurple",
+        "value": "#673ab7"
+    },
+    {
+        "color": "indigo",
+        "value": "#3f51b5"
+    },
+    {
+        "color": "blue",
+        "value": "#2196f3"
+    },
+    {
+        "color": "lightblue",
+        "value": "#03a9f4"
+    },
+    {
+        "color": "cyan",
+        "value": "#00bcd4"
+    },
+    {
+        "color": "teal",
+        "value": "#009688"
+    },
+    {
+        "color": "green",
+        "value": "#4caf50"
+    },
+    {
+        "color": "lightgreen",
+        "value": "#8bc34a"
+    },
+    {
+        "color": "lime",
+        "value": "#cddc39"
+    },
+    {
+        "color": "yellow",
+        "value": "#ffeb3b"
+    },
+    {
+        "color": "amber",
+        "value": "#ffc107"
+    },
+    {
+        "color": "orange",
+        "value": "#ff9800"
+    },
+    {
+        "color": "deeporange",
+        "value": "#ff5722"
+    },
+    {
+        "color": "brown",
+        "value": "#795548"
+    },
+    {
+        "color": "grey",
+        "value": "#9e9e9e"
+    },
+    {
+        "color": "black",
+        "value": "#000000"
+    },
+    {
+        "color": "white",
+        "value": "#ffffff"
+    }
+]
