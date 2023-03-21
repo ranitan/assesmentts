@@ -1,10 +1,10 @@
 "use strict";
-class amount {
+class account {
     balance(account_type, balance_amt) {
         console.log("the type is:" + account_type + " " + " the balance Amount is :" + balance_amt);
     }
 }
-let a = new amount();
+let a = new account();
 a.balance("savings", 20000);
-let b = new amount();
+let b = new account();
 b.balance("current", 30000);
